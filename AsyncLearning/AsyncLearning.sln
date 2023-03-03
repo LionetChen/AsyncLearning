@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskWithContinuation", "Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocksAndMonitor", "LocksAndMonitor\LocksAndMonitor.csproj", "{F7F21D3C-0213-4502-A158-CEAD33C4AB0E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capter2", "Capter2", "{B13B6942-8D84-4194-BE2D-56C31B75250C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter2", "Chapter2", "{B13B6942-8D84-4194-BE2D-56C31B75250C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter3", "Chapter3", "{00197553-1986-41C1-A212-2E041A8C8878}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
